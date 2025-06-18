@@ -12,8 +12,9 @@ This API allows clients to:
 - View all bookings by a specific email address
 
 ---
-```
+
 ## 📁 Project Structure
+```
 fitness_booking_api/
 ├── app.py                # Flask app entry point
 ├── database.py           # SQLite DB functions
